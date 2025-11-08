@@ -1,7 +1,7 @@
 # Weather-File-EPW-Modifiers
 This repository provides a set of tools for modifying EPW weather files to support building and urban energy simulations. You are welcome to use these tools freely, provided proper attribution is given as outlined in each README file.
 
-
+# EPW Wind Downscaling and Vertical Gradients
 Copyright © 2025 Kanchane Gunawardena
 Permission is hereby granted, free of charge, to any person obtaining a copy of this work and associated documentation files (the “Work”), to use, reproduce, modify, publish, distribute, and create derivative works of the Work, subject to the following conditions:
 1.	Attribution
